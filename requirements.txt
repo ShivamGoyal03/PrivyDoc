@@ -1,0 +1,10 @@
+requests
+chainlit
+foundry-local-sdk
+# Foundry Local SDK for running local AI models
+foundry-local
+openai
+# Microsoft Agent Framework
+agent-framework
+python-docx
+PyPDF2
