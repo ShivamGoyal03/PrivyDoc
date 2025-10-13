@@ -202,3 +202,14 @@ PrivyDoc/
 Contributions are welcome! Fork the repo, create your feature or fix branch, and submit a PR.
 
 Licensed under the MIT License — see [LICENSE](LICENSE).
+
+### Contact
+-------
+<table>
+<tr>
+    <td align="center"><a href="https://linkedin.com/in/shivam2003">
+        <img src="https://github.com/ShivamGoyal03.png" width="100px;" alt="Shivam Goyal"/><br />
+        <sub><b>Shivam Goyal</b></sub>
+    </a><br />
+    </td>
+</tr></table>
