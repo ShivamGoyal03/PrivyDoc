@@ -197,6 +197,7 @@ PrivyDoc/
 - `chainlit`: Web UI framework
 - `pdfplumber`: PDF text extraction
 - `python-docx`: DOCX text extraction
+- `agent_framework`: Create & orchestrate agents
 
 ### Contributing & License
 
