@@ -2,6 +2,7 @@
 
 A **secure, on-device document analysis solution** powered by **Foundry Local**, designed to handle sensitive documents without relying on the cloud.  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivamgoyal03.github.io-0366d6?style=flat-square&logo=github&logoColor=white)](https://shivamgoyal03.github.io/)
 ![PrivyDoc](https://img.shields.io/badge/PrivyDoc-Document%20Analysis-blue)  ![Foundry Local](https://img.shields.io/badge/Powered%20by-Foundry%20Local-green)  ![License](https://img.shields.io/badge/License-MIT-lightgrey)  
 
 ---
