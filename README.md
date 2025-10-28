@@ -52,7 +52,7 @@ The **PrivyDoc Document Analysis Tool** transforms how teams work with sensitive
 | OS | Windows 10/11, macOS 12+ |
 | RAM | 8 GB minimum, 16 GB recommended |
 | Storage | ≥ 5 GB free |
-| Python | 3.8+ |
+| Python | 3.10+ |
 
 ### Installation
 
